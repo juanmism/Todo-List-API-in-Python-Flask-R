@@ -1,4 +1,4 @@
-# Todo List API in Python Flask
+# Todo List API in Python Flask (README SIN MODIFICAR)
 
 <a href="https://www.breatheco.de"><img height="280" align="right" src="https://raw.githubusercontent.com/breatheco-de/python-flask-api-tutorial/3ffb90ea974146f57a3bdfd59665b4c4d5d05197/.breathecode/assets/badge.svg"></a>
 
@@ -59,5 +59,4 @@ And return the updated list of todos.
 
 ### DELETE /todos/<int:position>
 
-It's going to remove one todo based on a given position at the end of the url, and return the updated list of todos.
-
+It's going to remove one todo based on a given position at the end of the url, and return the updated list of todo
